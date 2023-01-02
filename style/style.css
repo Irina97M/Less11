@@ -16,3 +16,10 @@
     color: black;
     width: 500px;
 }
+
+.block_two_master {
+    background-color: red;
+    color: azure;
+    border: 1px solid black;
+    width: 500px;
+}
