@@ -4,3 +4,15 @@
     border: 1px solid black;
     width: 500px;
 }
+
+.block_new_one {
+    background-color: yellow;
+    color: blue;
+    width: 500px;
+}
+
+.block_new_two {
+    background-color: gray;
+    color: black;
+    width: 500px;
+}
