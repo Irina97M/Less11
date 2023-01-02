@@ -5,6 +5,18 @@
     width: 500px;
 }
 
+.block_new_one {
+    background-color: yellow;
+    color: blue;
+    width: 500px;
+}
+
+.block_new_two {
+    background-color: gray;
+    color: black;
+    width: 500px;
+}
+
 .block_two_master {
     background-color: red;
     color: azure;
